@@ -6,14 +6,15 @@ Front-End Developer aspiring to be a Full Stack
 
 Initially my journey in the tech field started at the end of 2019 when I took HTML && CSS lessons at FreeCode Academy, however it wasn't until 2021 that I made the decision to delve deeper into this field. I started studying Python but it didn't seem that interesting at first. I did a bit more research on websites and immediately started taking HTML and CSS classes & currently I´m studying Javascript.
 
-*   🌍  I'm based in Panamá
+### Here´s some stuff about me:
+*   🌍  I'm based in Panamá 
+*   🧠  I'm learning the MERN Tech Stack
+*   🎸  I love to play the Electric Guitar & drive Go Karts
 *   🖥️  See my portfolio at [Portfolio Web](http:///jeancsinisterra.github.io/CV/index.html)
 *   ✉️  You can contact me at [jeansinisterra@gmail.com](mailto:jeansinisterra@gmail.com)
-*   🧠  I'm learning the MERN Tech Stack
 *   🤝  I'm open to collaborating on Open Source projects
-*   ⚡  I love to play the Electric Guitar & drive Go Karts
 
-### Technologies that I'm involved
+### Here are the languages & technologies that I am currently working on:
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
