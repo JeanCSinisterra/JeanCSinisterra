@@ -10,7 +10,7 @@ Initially my journey in the tech field started at the end of 2019 when I took HT
 *   🌍  I'm based in Panamá 
 *   🧠  I'm learning the MERN Tech Stack
 *   🎸  I love to play the Electric Guitar & drive Go Karts
-*   🖥️  See my portfolio at [Portfolio Web](http:///jeancsinisterra.github.io/CV/index.html)
+*   🖥️  See my portfolio at [Portfolio Web](https://jeancsinisterra.github.io/Website-Portfolio/index.html)
 *   ✉️  You can contact me at [jeansinisterra@gmail.com](mailto:jeansinisterra@gmail.com)
 *   🤝  I'm open to collaborating on Open Source projects
 
