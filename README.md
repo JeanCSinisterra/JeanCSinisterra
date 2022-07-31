@@ -4,7 +4,8 @@ Hello Folks! 👋 My name is Jean Carlo Sinisterra
 Front-End Developer aspiring to be a Full Stack
 -------------------
 
-Initially my journey in the tech field started at the end of 2019 when I took HTML & CSS lessons at FreeCode Academy, however it wasn't until 2021 that I made the decision to delve deeper into this field. I started studying Python but it didn't seem that interesting at first. I did a bit more research on websites and immediately started taking HTML and CSS classes & currently I´m studying Javascript.
+Initially my journey in the tech field started at the end of 2019 when I took HTML & CSS lessons at FreeCode Academy, however it wasn't until 2021 that I made the decision to delve deeper into this field. I started studying Python but it didn't seem that interesting at first. I did a bit more research on websites and immediately started taking HTML and CSS classes & currently I´m studying Javascript. Also, I took Google's UI/UX course and noticed that I really enjoy creating, and making my projects look more beautiful and more user-friendly. 
+Outside of this, I like to spend time racing <a href="https://www.youtube.com/watch?v=5BVpUcgb10M" target="_blank">rental karts</a>, playing the Guitar with my <a href="https://www.instagram.com/p/CShivDilJEg/?utm_source=ig_web_copy_link" target="_blank">Rock band</a>, whether reading books or speaking about philosophy with my friends.
 
 ### Here´s some stuff about me:
 *   🌍  I'm based in Panamá 
