@@ -9,7 +9,7 @@ Outside of this, I like to spend time racing <a href="https://www.youtube.com/wa
 
 ### Here´s some stuff about me:
 *   🌍  I'm based in Panamá 
-*   🧠  I'm learning the MERN Tech Stack
+*   🧠  MERN Tech Stack
 *   🎸  I love to play the Electric Guitar & drive Go Karts
 *   🖥️  See my portfolio at [Portfolio Web](https://jeansinisterra.com)
 *   ✉️  You can contact me at [jeansinisterra@gmail.com](mailto:jeansinisterra@gmail.com)
