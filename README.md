@@ -1,11 +1,16 @@
-Hello Folks! 👋 My name is Jean Carlo Sinisterra
+Aspiring Full Stack Developer currently honing skills as a Web Developer Trainee
 ======================================
 
-Web Developer Student aspiring to be a Full Stack Developer
+Hello, there!
+
 -------------------
 
-Initially my journey in the tech field started at the end of 2019 when I took HTML & CSS lessons at FreeCodeCamp, however it wasn't until 2021 that I made the decision to delve deeper into this field. I started studying Python but it didn't seem that interesting at first. I did a bit more research on websites and immediately started taking HTML and CSS classes & currently I´m studying the MERN Stack. Also, I took some UI/UX courses & noticed that I really enjoy creating, and making my projects look more beautiful and more user-friendly. 
-Outside of this, I like to spend time racing <a href="https://www.youtube.com/watch?v=5BVpUcgb10M" target="_blank">rental karts</a>, playing the Guitar with my <a href="https://www.instagram.com/p/CShivDilJEg/?utm_source=ig_web_copy_link" target="_blank">Rock band</a>, whether reading books or speaking about philosophy with my friends.
+I'm a fervent technophile, an enthusiast of physical well-being, and a person who believes in performing at peak levels across all aspects of life.
+My journey into the vast realm of technology kicked off in the final quarter of 2019 when I dipped my toes into the world of HTML & CSS through lessons on FreeCodeCamp. However, the depth and breadth of the field fascinated me so much that it wasn't until 2021 that I decided to fully immerse myself.
+While my exploration began with Python, I soon realized my true calling was elsewhere. I delved back into HTML and CSS, which led me to the MERN stack that I am currently studying and developing a proficiency in. This journey has not only shaped my technical skills but has also given me a deep appreciation for aesthetics and usability in technology. This prompted me to take UI/UX design courses which unveiled another passion - the joy of creating visually appealing, user-friendly projects.
+But, my love for life isn't confined to the world of technology. I'm an adrenaline junkie who loves racing <a href="https://www.youtube.com/watch?v=5BVpUcgb10M" target="_blank">rental karts</a>, a music enthusiast who enjoys strumming my guitar alongside my rock band, and an intellectual who takes pleasure in deep philosophical discussions with my friends or engrossing myself in thought-provoking books.
+As I stride forward in my technological journey, I am always on the lookout for opportunities that would allow me to leverage my skills to solve real-world problems, design intuitive interfaces, and work with teams where I can learn, grow, and contribute. So, whether you're a potential employer, a fellow coder, or just someone who shares similar interests, feel free to reach out!
+Stay fit, stay curious, and keep coding!
 
 ### Here´s some stuff about me:
 *   🌍  I'm based in Panamá 
