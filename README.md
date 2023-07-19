@@ -100,14 +100,61 @@ Stay fit, stay curious, and keep coding!
 </table>
 
 ### Socials
+<table>
+  <tr>
+  <td align="center" height="108" width="108">
+    <a href="https://www.linkedin.com/in/jean-carlo-sinisterra/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" 
+        width="48"
+        height="48" 
+        alt="Linkedin"
+        />
+    </a>
+  </td>
 
-<p align="left">
-            <a href="https://www.linkedin.com/in/jean-carlo-sinisterra/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-            <a href="https://www.github.com/JeanCSinisterra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-            <a href="https://www.twitter.com/JeanCSinisterra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-            <a href="https://www.instagram.com/sinisterrajeanc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>            
-            <a href="https://discord.com/users/JCSS1994" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-</p>
+  <td align="center" height="108" width="108">
+    <a href="https://www.github.com/JeanCSinisterra" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
+        width="48"
+        height="48" 
+        alt="Github"
+        />
+    </a>
+  </td>
+
+  <td align="center" height="108" width="108">
+    <a href="https://twitter.com/JeanCSinisterra" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+        width="48"
+        height="48" 
+        alt="Twitter"
+        />
+    </a>
+  </td>
+
+<td align="center" height="108" width="108">
+    <a href="https://discord.com/users/JCSS1994" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
+        width="48"
+        height="48" 
+        alt="Instagram"
+        />
+    </a>
+  </td>
+
+  <td align="center" height="108" width="108">
+    <a href="https://www.instagram.com/sinisterrajeanc/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
+        width="48"
+        height="48" 
+        alt="Discord"
+        />
+    </a>
+  </td>
+
+  
+  </tr>
+</table>
 
 
 <b>My GitHub Stats</b>
