@@ -22,9 +22,17 @@ Stay fit, stay curious, and keep coding!
 
 
 ## 🔧 Technologies & Tools that I am currently working on:
-
 <table>
   <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -61,8 +69,6 @@ Stay fit, stay curious, and keep coding!
       />
       <br /><strong>Material UI</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -81,6 +87,8 @@ Stay fit, stay curious, and keep coding!
       />
       <br /><strong>Express</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
