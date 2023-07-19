@@ -87,8 +87,6 @@ Stay fit, stay curious, and keep coding!
       />
       <br /><strong>Express</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
