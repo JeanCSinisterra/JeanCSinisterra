@@ -17,7 +17,7 @@ Stay fit, stay curious, and keep coding!
 *   🧠  MERN Tech Stack
 *   🎸  I love to play the Electric Guitar & drive Go Karts
 *   🖥️  See my portfolio at [Portfolio Web](https://jeansinisterra.com)
-*   ✉️  You can contact me at [jeansinisterra@gmail.com](mailto:jeansinisterra@gmail.com)
+*   ✉️  You can contact me at my email
 *   🤝  I'm open to collaborating on Open Source projects
 
 
